@@ -1,3 +1,8 @@
+/*!
+ * Tech Integrity Services
+ * v0.1.0 Alpha
+ * Copyright 2016 Tech Integrity Services http://www.techintegrity.in
+ */
 var async = require('async');
 var urlmethod = require('url');
 var fs = require('fs');
