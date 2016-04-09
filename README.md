@@ -42,26 +42,7 @@ Credit :
 https://github.com/EyalAr/lwip#installation
 
 Thank you 
+
 Tech Integrity Services Team
-www.techintegrity.in
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Nailer is a system for generating thumbnail images from web resources. Nailer can be setup to use anyone of the existing thumbnail generation systems like Webthumb, uses RMagic to thumbnail documents such as PDF and Word. It also provides workers for various background systems like resque, DelayedJob and BackgrounDRb.
-
-https://github.com/EyalAr/lwip
