@@ -99,7 +99,7 @@ var q = async.queue( function (data, callback)
                                    // _width has percentage 
                                    
                                    var newWidth = (dimensions.width * _width) / 100 ;
-                                   var newHeight =  (dimensions.height * _width) / 100 ;
+                                   var newHeight =  (dimensions.height * _height) / 100 ;
                                    image.batch().resize(parseInt(newWidth),parseInt(newHeight)).writeFile( CACHE_DIR + appendedFilename, function(err)
                                {
                                       
